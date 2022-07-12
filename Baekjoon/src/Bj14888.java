@@ -7,7 +7,7 @@ public class Bj14888 {
  
 	public static int MAX = Integer.MIN_VALUE;	
 	public static int MIN = Integer.MAX_VALUE;	
-	public static int[] operator = new int[4];	// 연산자 개수 
+	public static int[] operator = new int[4];	// 연산자 수 
 	public static int[] number;	// 수
 	public static int N;  // 수의 개수 
  
