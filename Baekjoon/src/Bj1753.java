@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-/*다익스트라 Dijkstra*/
+/*다익스트라 Dijkstra_ 우선순위 큐*/
 
 
 //객체간  비교
